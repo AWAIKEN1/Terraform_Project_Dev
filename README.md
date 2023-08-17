@@ -67,4 +67,4 @@ With all the above steps completed, your development environment is set up:
 
 Remember to manage your AWS credentials securely and avoid sharing them or committing them to version control.
 
-Happy coding!
+Happy coding.
