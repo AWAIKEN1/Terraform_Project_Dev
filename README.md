@@ -1,5 +1,6 @@
 # Setting Up a Development Environment with AWS, VS Code, and Terraform.
 
+In this project I went through Terraform basics to utilise Visual Studio Code (on Windows, Mac, or Linux) to deploy AWS resources and an EC2 instance. With this repositroy you can SSH into the EC2 instance and have your own redeployable environment that you can use for future projects.
 ## Prerequisites
 
 - Download and install Visual Studio Code (VS Code) on your local machine.
@@ -66,5 +67,6 @@ With all the above steps completed, your development environment is set up:
 - You have file and SSH access to the EC2 node to run commands and deploy your applications.
 
 Remember to manage your AWS credentials securely and avoid sharing them or committing them to version control.
+
 
 Happy coding.
